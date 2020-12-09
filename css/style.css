@@ -1,0 +1,31 @@
+body{
+    background: url(https://i2.wp.com/lopezdoriga.com/wp-content/uploads/2017/01/GOES-16-NOAA-NASA.jpg?resize=980%2C550&ssl=1) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.Title{
+  background-color: #83D0FF;
+  border-color: #009EFF;
+  border-style: dotted;
+}
+.card {
+    background-image: linear-gradient(to top, #ffffff, #e8fdff, #00C9A7);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.jumbotron{
+	background-image: linear-gradient(to top, #ffffff, #C7FFF6, #009EFF);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h4{
+	background-color: #00DBB6;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	font-size: 1.5rem;
+  border-color: #00FFD4;
+  border-style: ridge;
+  text-transform: uppercase;
+}
+.ctext{
+  font-size: 1.2rem;
+}
